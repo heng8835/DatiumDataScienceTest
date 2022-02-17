@@ -16,7 +16,8 @@ Do not use [AvgWholesale, AvgRetail, GoodWholesale, GoodRetail, TradeMin, TradeM
 
 ## To Run:
 Amend datasource path for blocks:
-# Read Datasource
+
+#### # Read Datasource
 df=pd.read_csv(r'C:\Users\zhonglim\Desktop\Self Training\Untitled Folder\DatiumSample.rpt', delimiter='\t')   <== to relevant data source.
 
 
